@@ -17,6 +17,12 @@
         </dependency>
 
 
+        <dependency>
+            <groupId>org.apache.storm</groupId>
+            <artifactId>storm-starter</artifactId>
+            <version>1.2.2</version>
+        </dependency>
+
     </dependencies>
 
     
